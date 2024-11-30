@@ -1,0 +1,24 @@
+[
+    {
+      "image": "vendor/hi.png",
+      "alt": "HeHa Ocean View",
+      "title": "Holiday Inn Bandung Pasteur",
+      "rating": 5,
+      "description": "A perfect place for business and leisure travelers."
+    },
+    {
+      "image": "vendor/gsrs.png",
+      "alt": "Amerta Weddings",
+      "title": "GD.SERASAN SESKO TNI BANDUNG",
+      "rating": 5,
+      "description": "Gedung pernikahan"
+    },
+    {
+      "image": "vendor/elh.png",
+      "alt": "Ohana Enterprise",
+      "title": "éL Hotel Bandung",
+      "rating": 5,
+      "description": "Hotel Managed by @elhotelgroup When Hospitality Meets Tradition"
+    }
+  ]
+  
