@@ -1,17 +1,94 @@
 [
     {
       "image": "vendor/wwp.png",
-      "alt": "HeHa Ocean View",
+      "alt": "WA WEDDING PLANNER",
       "title": "WA WEDDING PLANNER",
       "rating": 5,
       "description": "Wedding Planning Service Trend Setter Wedding Planner ID"
     },
     {
       "image": "vendor/chrome.png",
-      "alt": "Amerta Weddings",
+      "alt": "CHROME Wedding Organizer",
       "title": "CHROME Wedding Organizer",
       "rating": 5,
       "description": "Wedding Package & Organizer Service."
+    },
+    {
+      "image": "data/vendor/wo/img/mvp.png",
+      "alt": "mwp.stage",
+      "title": "mwp.stage",
+      "rating": 5,
+      "description": "WO BANDUNG CIMAHI PACKAGE | D’DAY WEDDING | CUSTOMIZE"
+    },
+    {
+      "image": "data/vendor/wo/img/kelana.png",
+      "alt": "kelanabersamamu.wo",
+      "title": "KELANA WEDDING PLANNER",
+      "rating": 5,
+      "description": "kelanabersamamu.wo"
+    },
+    {
+      "image": "data/vendor/wo/img/anglo.png",
+      "alt": "anglocitaorganizer",
+      "title": "anglocitaorganizer",
+      "rating": 5,
+      "description": "Wedding Organizer and Planner. Wedding Outdoor Specialist"
+    },
+    {
+      "image": "data/vendor/wo/img/extro.png",
+      "alt": "extro.wobandung",
+      "title": "extro.wobandung",
+      "rating": 5,
+      "description": "Jodoh, Sudah diAtur. Wedding, Kita yang atur. We Work with Love 🌻"
+    },
+    {
+      "image": "data/vendor/wo/img/sekawan.png",
+      "alt": "5ekawan_allstars",
+      "title": "Sekawan Allstars | Wedding Organizer",
+      "rating": 5,
+      "description": "Serve With Style since 2015"
+    },
+    {
+      "image": "data/vendor/wo/img/ody.png",
+      "alt": "odylopweddingplanner",
+      "title": "Odylop Wedding Planner",
+      "rating": 5,
+      "description": "𝙒𝙝𝙚𝙧𝙚 𝙀𝙫𝙚𝙧𝙮 𝙒𝙚𝙙𝙙𝙞𝙣𝙜 𝙞𝙨 𝙖 𝙈𝙖𝙨𝙩𝙚𝙧𝙥𝙞𝙚𝙘𝙚"
+    },
+    {
+      "image": "data/vendor/wo/img/ureka.png",
+      "alt": "urekaweddingevent",
+      "title": "Ureka Wedding & Event",
+      "rating": 5,
+      "description": "Wedding Planning Service Custom Decorations & Wedding Attire 🤵🏻‍♂️👰🏻 Full Wedding Package ✨ Boutique : Seri Kembangan, Selangor"
+    },
+    {
+      "image": "data/vendor/wo/img/kalika.png",
+      "alt": "kalika_wedding_planners",
+      "title": "Kalika wedding planners",
+      "rating": 5,
+      "description": "Business service Entry 07_07...🚩 Haliyal ka_65 🙏Our Services Sound System, Structure Pendal, Lighting, Shyamiyana, Stage decoration & Utensils etc. www.facebook.com/profile.php?id=6155112"
+    },
+    {
+      "image": "data/vendor/wo/img/tc.png",
+      "alt": "teman.cerita.kita",
+      "title": "Teman Cerita | Wedding Specialist",
+      "rating": 5,
+      "description": "Wedding Planning Service • #MoreThanPlanner • 📍 Based in Bandung"
+    },
+    {
+      "image": "data/vendor/wo/img/aluxs.png",
+      "alt": "aluxswedding",
+      "title": "WEDDING ORGANIZER & PLANNER",
+      "rating": 5,
+      "description": "Wedding Planning Service Part of PT. Aluxs Multi Kreasindo Est 2010 Planner | Organizer | Package BDG - SMI - JKT - BGR - PWK"
+    },
+    {
+      "image": "data/vendor/wo/img/7.png",
+      "alt": "7weddingconcept",
+      "title": "7WeddingConcept",
+      "rating": 5,
+      "description": "Wedding Planning Service 𝘚𝘪𝘯𝘤𝘦 2011 - 𝙔𝙤𝙪𝙧 𝘼𝙡𝙡-𝙞𝙣-𝙊𝙣𝙚 𝙒𝙚𝙙𝙙𝙞𝙣𝙜 𝘾𝙤𝙣𝙨𝙪𝙡𝙩𝙖𝙣𝙩, 𝙋𝙡𝙖𝙣𝙣𝙚𝙧 & 𝙊𝙧𝙜𝙖𝙣𝙞𝙯𝙚𝙧"
     }
 ]
   
