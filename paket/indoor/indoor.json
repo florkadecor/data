@@ -1,0 +1,21 @@
+[
+    {
+      "image": "/data/paket/indoor/img/a.png",
+      "alt": "Indoor",
+      "title": "Indoor",
+      "description": "Paket Indoor A"
+    },
+    {
+      "image": "/data/paket/indoor/img/b.png",
+      "alt": "Indoor",
+      "title": "Indoor",
+      "description": "Paket Indoor B"
+    },
+    {
+      "image": "/data/paket/indoor/img/c.png",
+      "alt": "Indoor",
+      "title": "Indoor",
+      "description": "Paket Indoor C"
+    }
+]
+  
